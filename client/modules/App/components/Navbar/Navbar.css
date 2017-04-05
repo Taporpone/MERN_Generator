@@ -1,0 +1,14 @@
+.container {
+    background-color: #0091ea;
+    padding: 10px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.links a {
+    color: white;
+    text-decoration: none;
+}
